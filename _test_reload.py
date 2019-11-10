@@ -1,0 +1,2 @@
+def tick():
+    print('tick !')
